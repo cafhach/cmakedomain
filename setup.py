@@ -11,7 +11,7 @@ requires = ['Sphinx>=1.7', 'sphinxcontrib-domaintools>=0.1']
 
 setup(
     name='sphinxcontrib-cmakedomain',
-    version=domaintools.__version__,
+    version="0.2.1"
     url='http://bitbucket.org/klorenz/sphinxcontrib-cmakedomain',
     download_url='http://pypi.python.org/pypi/sphinxcontrib-cmakedomain',
     license='BSD',
