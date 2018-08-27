@@ -7,9 +7,6 @@ long_desc = '''
 This package contains a CMake domain.
 '''
 
-sys.path.insert(0, 'sphinxcontrib')
-import domaintools
-
 requires = ['Sphinx>=1.7', 'sphinxcontrib-domaintools>=0.1']
 
 setup(
