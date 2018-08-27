@@ -10,7 +10,7 @@ This package contains a CMake domain.
 sys.path.insert(0, 'sphinxcontrib')
 import domaintools
 
-requires = ['Sphinx>=1.0', 'sphinxcontrib-domaintools>=0.1']
+requires = ['Sphinx>=1.7', 'sphinxcontrib-domaintools>=0.1']
 
 setup(
     name='sphinxcontrib-cmakedomain',
